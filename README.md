@@ -44,7 +44,7 @@ Or without nodemon
 
 
 
-`!question what is the capitol city of canada?`
+`!question what is the capital city of Canada?`
 
     @nehero, Ottowa, Ontario, Canada
 
